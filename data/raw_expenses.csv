@@ -1,0 +1,753 @@
+Transaction_ID,Date,Category,Description,Amount,Type,Payment_Method
+TXN1507,2024-03-07,Groceries,Fresh Vegetables,3887.31,Expense,Debit Card
+TXN1358,2024-08-12,Food & Dining,Zomato Dinner,1085.61,Expense,UPI
+TXN1134,2024-04-18,Groceries,Milk & Dairy,1660.3,Expense,Credit Card
+TXN1251,2024-03-20,Food & Dining,Swiggy Order,769.84,Expense,Cash
+TXN1300,2024-11-17,Transportation,Fuel Petrol,1045.21,Expense,Debit Card
+TXN1681,2024-06-10,Groceries,Supermarket Grocery,945.9,Expense,Credit Card
+TXN1337,2024-01-08,Entertainment,Weekend Outing,2116.9,Expense,Credit Card
+TXN1156,2024-01-11,Freelance & Side Income,Stock Dividend Payout,14796.2,Income,Net Banking
+TXN1529,2024-10-28,Food & Dining,Swiggy Order,1196.22,Expense,Cash
+TXN1737,2024-05-19,Entertainment,Concert Pass,900.93,Expense,Credit Card
+TXN1098,2024-08-11,Food & Dining,Weekend Restaurant,999.18,Expense,Cash
+TXN1307,2024-04-20,Transportation,Uber Cab Ride,163.1,Expense,Cash
+TXN1282,2024-03-05, food & dining ,Coffee Shop,583.55,Expense,Cash
+TXN1747,2024-05-21,Transportation,Auto Fare,1669.85,Expense,UPI
+TXN1212,2024-11-05,Groceries,Supermarket Grocery,3633.25,Expense,Credit Card
+TXN1267,2024-11-10,Groceries,D-Mart Hypermarket,1071.16,Expense,Credit Card
+TXN1040,2024-10-11,Subscriptions,"Netflix, Spotify & Cloud Storage",1199.0,Expense,Credit Card
+TXN1248,2024-07-11,Transportation,Fuel Petrol,1718.9,Expense,Debit Card
+TXN1363,2024-10-02,Groceries,Fresh Vegetables,1507.84,Expense,Credit Card
+TXN1539,2024-08-31,Health & Fitness,Doctor Consultation,256.65,Expense,Debit Card
+TXN1458,2024-05-31,Transportation,Metro Card Recharge,1069.57,Expense,UPI
+TXN1500,2024-01-14,Groceries,Fresh Vegetables,462.82,Expense,Debit Card
+TXN1423,2024-07-19,Transportation,Fuel Petrol,778.05,Expense,Cash
+TXN1320,2024-06-09,Groceries,D-Mart Hypermarket,3008.43,Expense,Debit Card
+TXN1067,2024-09-05,Food & Dining,Zomato Dinner,1045.89,Expense,Cash
+TXN1709,2024-05-17,Groceries,Milk & Dairy,1758.81,Expense,Debit Card
+TXN1249,2024-12-16,Health & Fitness,Pharmacy Medicine,2008.87,expense,Debit Card
+TXN1329,2024-09-28,Food & Dining,Zomato Dinner,187.19,Expense,Credit Card
+TXN1219,2024-10-11,Groceries,Milk & Dairy,2560.29,Expense,Debit Card
+TXN1221,2024-04-02, food & dining ,Coffee Shop,1299.57,Expense,Credit Card
+TXN1353,2024-03-09,Transportation,Fuel Petrol,302.01,Expense,Debit Card
+TXN1469,2024-12-30,Freelance & Side Income,Consulting Fee,13434.51,Income,UPI
+TXN1454,2024-11-17,Entertainment,Concert Pass,2271.44,Expense,UPI
+TXN1343,2024-03-19,Groceries,Milk & Dairy,1951.01,Expense,Credit Card
+TXN1370,2024-07-02,Groceries,Milk & Dairy,2324.34,Expense,Debit Card
+TXN1079,2024-10-25,Transportation,Fuel Petrol,1966.8,Expense,UPI
+TXN1211,2024-11-20,Transportation,Fuel Petrol,837.04,Expense,Debit Card
+TXN1433,2024-02-22,Entertainment,Gaming & Events,1252.67,Expense,Credit Card
+TXN1082,2024-02-05,Shopping,Electronics & Gadgets,2566.41,Expense,Net Banking
+TXN1413,2024-09-22,Transportation,Ola Ride,510.9,Expense,Cash
+TXN1078,2024-04-30,Groceries,Fresh Vegetables,2578.84,Expense,UPI
+TXN1678,2024-12-22,Transportation,Auto Fare,333.12,Expense,Cash
+TXN1034,2024-09-05,Rent & Housing,Apartment Monthly Rent & Society Maintenance,18500.0,Expense,Net Banking
+TXN1121,2024-06-21,Entertainment,Concert Pass,1190.42,Expense,UPI
+TXN1689,2024-03-30,Transportation,Auto Fare,81.85,Expense,Debit Card
+TXN1571,2024-06-08,Food & Dining,Office Cafeteria,764.27,Expense,Credit Card
+TXN1582,2024-04-16, transportation ,Auto Fare,734.43,Expense,UPI
+TXN1498,2024-09-26,Food & Dining,Weekend Restaurant,1137.4,Expense,Credit Card
+TXN1395,2024-08-15,Groceries,Milk & Dairy,743.59,Expense,UPI
+TXN1441,2024-02-17,Groceries,Milk & Dairy,3024.61,Expense,Debit Card
+TXN1011,2024-03-08,Bills & Utilities,Fiber Broadband & Power Bill,2705.36,Expense,UPI
+TXN1501,2024-09-28,Groceries,Fresh Vegetables,4099.82,Expense,UPI
+TXN1369,2024-12-26,Food & Dining,Zomato Dinner,826.66,Expense,Credit Card
+TXN1325,2024-06-11,Groceries,Milk & Dairy,1457.99,Expense,Credit Card
+TXN1468,2024-03-01,Entertainment,Movie Tickets Cinema,1372.04,Expense,UPI
+TXN1110,2024-08-14,Transportation,Ola Ride,930.55,Expense,Debit Card
+TXN1543,2024-07-25,Food & Dining,Weekend Restaurant,1245.55,Expense,UPI
+TXN1077,2024-09-28,Food & Dining,Weekend Restaurant,222.54,Expense,UPI
+TXN1491,2024-03-03,Food & Dining,Zomato Dinner,287.32,Expense,Credit Card
+TXN1055,2024-12-14,Groceries,Supermarket Grocery,1831.35,Expense,Credit Card
+TXN1255,2024-08-28,Health & Fitness,Gym Membership,1229.95,Expense,Cash
+TXN1205,2024-03-15,Freelance & Side Income,Stock Dividend Payout,18574.74,income,Net Banking
+TXN1717,2024-05-25,Groceries,D-Mart Hypermarket,3332.77,Expense,Debit Card
+TXN1708,2024-10-24,Food & Dining,Coffee Shop,904.36,Expense,Credit Card
+TXN1260,2024-01-14,Groceries,D-Mart Hypermarket,2282.73,Expense,UPI
+TXN1228,2024-04-18, entertainment ,Weekend Outing,1226.23,Expense,Credit Card
+TXN1291,2024-11-09,Health & Fitness,Pharmacy Medicine,1066.01,Expense,Cash
+TXN1066,2024-04-27,Food & Dining,Swiggy Order,1220.33,Expense,UPI
+TXN1429,2024-12-16,Groceries,D-Mart Hypermarket,2231.49,Expense,UPI
+TXN1650,2024-08-07,Food & Dining,Coffee Shop,435.1,Expense,UPI
+TXN1427,2024-03-26,Groceries,Fresh Vegetables,1070.33,Expense,Debit Card
+TXN1440,2024-11-19,Food & Dining,Office Cafeteria,600.22,Expense,UPI
+TXN1261,2024-04-24,Food & Dining,Swiggy Order,1194.15,Expense,Cash
+TXN1606,2024-11-20,Shopping,Amazon Shopping,5927.8,Expense,Net Banking
+TXN1741,2024-03-15,Food & Dining,Office Cafeteria,211.37,Expense,Credit Card
+TXN1424,2024-12-27,Shopping,Amazon Shopping,5237.56,Expense,Net Banking
+TXN1486,2024-08-18,Groceries,D-Mart Hypermarket,814.84,Expense,Debit Card
+TXN1073,2024-03-26,Groceries,D-Mart Hypermarket,1172.93,Expense,Debit Card
+TXN1214,2024-06-09,Groceries,Milk & Dairy,1791.06,Expense,UPI
+TXN1372,2024-04-23,Entertainment,Movie Tickets Cinema,1134.48,Expense,UPI
+TXN1240,2024-02-16,Transportation,Ola Ride,844.34,Expense,Debit Card
+TXN1064,2024-12-31,Groceries,Milk & Dairy,2036.69,Expense,Credit Card
+TXN1642,2024-05-31,Freelance & Side Income,Freelance Web Project,10066.96,income,UPI
+TXN1600,2024-11-05,Freelance & Side Income,Stock Dividend Payout,20131.89,Income,Net Banking
+TXN1050,2024-10-12,Food & Dining,Coffee Shop,1198.85,expense,UPI
+TXN1356,2024-02-27,Food & Dining,Office Cafeteria,907.1,Expense,UPI
+TXN1710,2024-07-09,Groceries,D-Mart Hypermarket,1426.57,Expense,UPI
+TXN1495,2024-12-15,Groceries,Milk & Dairy,1176.66,Expense,UPI
+TXN1669,2024-10-20,Food & Dining,Zomato Dinner,450.57,Expense,UPI
+TXN1008,2024-02-14,Subscriptions,"Netflix, Spotify & Cloud Storage",1199.0,Expense,Credit Card
+TXN1552,2024-06-03, transportation ,Ola Ride,870.19,Expense,UPI
+TXN1024,2024-06-11,Subscriptions,"Netflix, Spotify & Cloud Storage",1199.0,Expense,Credit Card
+TXN1631,2024-05-24,Food & Dining,Weekend Restaurant,1172.3,Expense,Credit Card
+TXN1746,2024-12-07,Food & Dining,Swiggy Order,422.04,Expense,Credit Card
+TXN1102,2024-10-07,Shopping,Electronics & Gadgets,2579.7,Expense,Net Banking
+TXN1334,2024-09-10,Food & Dining,Coffee Shop,1242.23,Expense,UPI
+TXN1494,2024-01-26,Food & Dining,Weekend Restaurant,674.44,expense,Cash
+TXN1287,2024-12-31,Groceries,Supermarket Grocery,3470.48,Expense,Debit Card
+TXN1119,2024-09-30, food & dining ,Office Cafeteria,877.62,Expense,Cash
+TXN1175,2024-06-17,Shopping,Footwear,7183.56,Expense,UPI
+TXN1087,2024-05-14,Food & Dining,Office Cafeteria,826.15,Expense,Credit Card
+TXN1704,2024-07-09,Transportation,Auto Fare,1892.17,Expense,Debit Card
+TXN1003,2024-01-09,Bills & Utilities,Fiber Broadband & Power Bill,2444.89,Expense,UPI
+TXN1728,2024-03-31,Transportation,Auto Fare,1347.34,Expense,Debit Card
+TXN1159,2024-12-05,Health & Fitness,Pharmacy Medicine,1473.51,Expense,Debit Card
+TXN1031,2024-08-07,Bills & Utilities,Fiber Broadband & Power Bill,2752.04,Expense,UPI
+TXN1623,2024-09-20,Food & Dining,Swiggy Order,668.49,Expense,Cash
+TXN1697,2024-06-22,Freelance & Side Income,Bonus,16587.11,Income,Net Banking
+TXN1447,2024-12-18,Health & Fitness,Doctor Consultation,645.14,Expense,Debit Card
+TXN1165,2024-09-17,Entertainment,Concert Pass,2971.12,Expense,UPI
+TXN1656,2024-11-30,Entertainment,Weekend Outing,1555.99,Expense,UPI
+TXN1514,2024-09-11,Food & Dining,Swiggy Order,424.63,Expense,Credit Card
+TXN1182,2024-03-21,Food & Dining,Coffee Shop,1384.19,Expense,Credit Card
+TXN1573,2024-12-17,Freelance & Side Income,Stock Dividend Payout,21934.36,Income,UPI
+TXN1406,2024-04-02,Transportation,Ola Ride,114.91,Expense,Debit Card
+TXN1621,2024-08-14,Shopping,Electronics & Gadgets,5810.24,Expense,UPI
+TXN1605,2024-07-20,Food & Dining,Zomato Dinner,1037.49,Expense,UPI
+TXN1301,2024-12-18,Food & Dining,Office Cafeteria,652.0,Expense,Credit Card
+TXN1683,2024-10-09,Shopping,Footwear,1833.17,Expense,UPI
+TXN1085,2024-06-24,Food & Dining,Coffee Shop,766.92,Expense,Credit Card
+TXN1405,2024-06-15,Groceries,D-Mart Hypermarket,1755.31,Expense,Credit Card
+TXN1080,2024-05-15, groceries ,Milk & Dairy,2110.31,Expense,UPI
+TXN1619,2024-09-18,Shopping,Electronics & Gadgets,5381.26,Expense,Credit Card
+TXN1303,2024-07-08,Groceries,Supermarket Grocery,1578.6,Expense,Debit Card
+TXN1651,2024-05-21,Shopping,Clothing & Apparel,5289.1,Expense,Net Banking
+TXN1197,2024-06-04,Freelance & Side Income,Consulting Fee,6652.26,Income,Net Banking
+TXN1032,2024-08-16,Subscriptions,"Netflix, Spotify & Cloud Storage",1199.0,Expense,Credit Card
+TXN1583,2024-02-26,Shopping,Footwear,1629.1,Expense,Credit Card
+TXN1266,2024-10-01,Food & Dining,Weekend Restaurant,856.06,Expense,Cash
+TXN1674,2024-09-15,Transportation,Metro Card Recharge,1295.24,Expense,UPI
+TXN1235,2024-06-27,Groceries,Fresh Vegetables,1259.64,Expense,UPI
+TXN1056,2024-10-10,Shopping,Amazon Shopping,5293.96,Expense,Credit Card
+TXN1213,2024-04-20,Groceries,Fresh Vegetables,1943.18,Expense,Debit Card
+TXN1336,2024-04-08,Shopping,Electronics & Gadgets,1721.21,Expense,Net Banking
+TXN1519,2024-01-11,Groceries,Supermarket Grocery,635.67,Expense,UPI
+TXN1362,2024-12-09,Groceries,Milk & Dairy,3030.79,Expense,Debit Card
+TXN1216,2024-10-11,Food & Dining,Weekend Restaurant,838.95,Expense,Cash
+TXN1330,2024-12-14,Entertainment,Movie Tickets Cinema,3386.46,Expense,Credit Card
+TXN1061,2024-06-06,Food & Dining,Zomato Dinner,1243.85,Expense,UPI
+TXN1738,2024-01-12,Food & Dining,Swiggy Order,481.11,Expense,UPI
+TXN1382,2024-08-23,Transportation,Metro Card Recharge,671.95,Expense,UPI
+TXN1166,2024-07-15,Food & Dining,Weekend Restaurant,770.55,Expense,UPI
+TXN1645,2024-04-04,Food & Dining,Coffee Shop,368.74,Expense,UPI
+TXN1432,2024-07-06,Transportation,Uber Cab Ride,1610.41,Expense,Cash
+TXN1149,2024-02-11, food & dining ,Zomato Dinner,826.55,Expense,UPI
+TXN1463,2024-03-19,Food & Dining,Coffee Shop,221.15,Expense,UPI
+TXN1091,2024-03-24,Freelance & Side Income,Freelance Web Project,19984.08,Income,Net Banking
+TXN1394,2024-11-20,Food & Dining,Office Cafeteria,525.35,Expense,UPI
+TXN1686,2024-11-10, transportation ,Uber Cab Ride,387.91,Expense,Debit Card
+TXN1070,2024-06-22,Shopping,Amazon Shopping,2315.73,Expense,Credit Card
+TXN1596,2024-09-10,Shopping,Amazon Shopping,5784.87,Expense,Net Banking
+TXN1132,2024-05-17,Groceries,Fresh Vegetables,3548.31,Expense,UPI
+TXN1045,2024-12-01,Salary,Monthly Corporate Salary Credit,61701.75,Income,Net Banking
+TXN1071,2024-04-03,Food & Dining,Zomato Dinner,1239.34,Expense,UPI
+TXN1673,2024-02-05,Food & Dining,Office Cafeteria,289.23,Expense,UPI
+TXN1209,2024-01-16,Food & Dining,Office Cafeteria,1204.54,Expense,Credit Card
+TXN1345,2024-08-16,Transportation,Fuel Petrol,219.33,Expense,Debit Card
+TXN1624,2024-05-10, food & dining ,Office Cafeteria,1028.4,Expense,UPI
+TXN1136,2024-05-03,Transportation,Auto Fare,974.28,Expense,UPI
+TXN1482,2024-08-22,Freelance & Side Income,Consulting Fee,14873.1,Income,Net Banking
+TXN1029,2024-08-02,Salary,Monthly Corporate Salary Credit,60362.28,Income,Net Banking
+TXN1465,2024-01-30,Food & Dining,Office Cafeteria,268.46,Expense,Cash
+TXN1399,2024-05-17,Groceries,D-Mart Hypermarket,911.85,Expense,UPI
+TXN1630,2024-01-21,Transportation,Fuel Petrol,838.0,Expense,UPI
+TXN1137,2024-12-20,Food & Dining,Weekend Restaurant,592.35,Expense,Cash
+TXN1496,2024-03-17,Food & Dining,Weekend Restaurant,909.73,Expense,Cash
+TXN1007,2024-02-11,Bills & Utilities,Fiber Broadband & Power Bill,2286.94,Expense,UPI
+TXN1612,2024-10-07,Shopping,Clothing & Apparel,1986.13,Expense,UPI
+TXN1074,2024-01-02,Freelance & Side Income,Stock Dividend Payout,20750.81,Income,UPI
+TXN1199,2024-02-20, shopping ,Footwear,7079.47,Expense,Net Banking
+TXN1200,2024-08-15,Groceries,Fresh Vegetables,3643.48,Expense,UPI
+TXN1146,2024-05-07,Food & Dining,Office Cafeteria,896.09,Expense,Cash
+TXN1324,2024-06-01,Food & Dining,Coffee Shop,1107.1,Expense,Cash
+TXN1745,2024-10-08,Transportation,Fuel Petrol,1041.71,Expense,Cash
+TXN1133,2024-08-25,Transportation,Auto Fare,746.25,Expense,Cash
+TXN1327,2024-08-14,Transportation,Auto Fare,496.53,Expense,Debit Card
+TXN1616,2024-01-28,Transportation,Metro Card Recharge,604.64,Expense,UPI
+TXN1702,2024-05-15,Food & Dining,Zomato Dinner,1188.72,Expense,Cash
+TXN1042,2024-11-06,Rent & Housing,Apartment Monthly Rent & Society Maintenance,18500.0,Expense,Net Banking
+TXN1109,2024-03-03,Groceries,D-Mart Hypermarket,2920.17,Expense,Credit Card
+TXN1533,2024-11-17,Food & Dining,Weekend Restaurant,450.09,Expense,Cash
+TXN1057,2024-05-16,Entertainment,Weekend Outing,656.97,expense,UPI
+TXN1193,2024-10-12,Groceries,D-Mart Hypermarket,403.59,Expense,Credit Card
+TXN1584,2024-02-21,Health & Fitness,Gym Membership,1478.9,Expense,Debit Card
+TXN1357,2024-10-31,Food & Dining,Weekend Restaurant,980.19,Expense,UPI
+TXN1602,2024-11-03,Groceries,Milk & Dairy,3106.27,Expense,UPI
+TXN1378,2024-12-07, health & fitness ,Health Supplements,2046.0,Expense,UPI
+TXN1025,2024-07-02,Salary,Monthly Corporate Salary Credit,63474.94,Income,Net Banking
+TXN1558,2024-10-19,Shopping,Electronics & Gadgets,5613.19,Expense,Credit Card
+TXN1481,2024-05-23,Food & Dining,Zomato Dinner,1268.53,Expense,Cash
+TXN1452,2024-02-22,Groceries,Milk & Dairy,877.95,Expense,UPI
+TXN1333,2024-03-30,Groceries,Fresh Vegetables,3945.6,Expense,UPI
+TXN1731,2024-03-10,Groceries,D-Mart Hypermarket,2410.13,Expense,Credit Card
+TXN1111,2024-08-31,Groceries,Fresh Vegetables,3583.47,Expense,Debit Card
+TXN1083,2024-11-09,Freelance & Side Income,Consulting Fee,16353.67,Income,UPI
+TXN1052,2024-12-01,Groceries,D-Mart Hypermarket,900.06,Expense,UPI
+TXN1421,2024-04-15,Food & Dining,Swiggy Order,859.01,Expense,Cash
+TXN1603,2024-01-02,Groceries,Milk & Dairy,2458.61,Expense,Debit Card
+TXN1523,2024-02-19,Food & Dining,Weekend Restaurant,823.57,Expense,Credit Card
+TXN1598,2024-10-20,Groceries,D-Mart Hypermarket,2071.21,Expense,UPI
+TXN1627,2024-03-22,Groceries,D-Mart Hypermarket,703.99,Expense,UPI
+TXN1391,2024-10-31,Groceries,Milk & Dairy,464.06,Expense,Debit Card
+TXN1140,2024-09-04,Food & Dining,Weekend Restaurant,1370.06,Expense,Cash
+TXN1668,2024-05-04,Food & Dining,Weekend Restaurant,878.21,expense,UPI
+TXN1437,2024-05-29,Food & Dining,Coffee Shop,1339.07,Expense,Cash
+TXN1019,2024-05-08,Bills & Utilities,Fiber Broadband & Power Bill,2898.14,Expense,UPI
+TXN1632,2024-09-06,Food & Dining,Zomato Dinner,530.0,Expense,UPI
+TXN1141,2024-04-09,Food & Dining,Coffee Shop,349.69,Expense,UPI
+TXN1347,2024-12-14,Food & Dining,Weekend Restaurant,745.7,Expense,Cash
+TXN1508,2024-12-26,Health & Fitness,Pharmacy Medicine,2570.15,Expense,Debit Card
+TXN1084,2024-03-09,Food & Dining,Swiggy Order,1070.29,Expense,UPI
+TXN1062,2024-02-05,Freelance & Side Income,Freelance Web Project,7182.65,Income,UPI
+TXN1622,2024-04-09,Food & Dining,Zomato Dinner,1378.82,Expense,UPI
+TXN1446,2024-03-04,Health & Fitness,Gym Membership,1435.6,Expense,UPI
+TXN1030,2024-08-05,Rent & Housing,Apartment Monthly Rent & Society Maintenance,18500.0,Expense,Net Banking
+TXN1532,2024-04-18,Shopping,Clothing & Apparel,894.46,Expense,Credit Card
+TXN1232,2024-06-15,Food & Dining,Weekend Restaurant,708.92,Expense,Cash
+TXN1351,2024-05-26,Groceries,Fresh Vegetables,3298.44,Expense,Credit Card
+TXN1293,2024-12-14,Groceries,Fresh Vegetables,3730.15,Expense,Credit Card
+TXN1732,2024-09-01,Food & Dining,Office Cafeteria,1141.39,expense,Cash
+TXN1183,2024-05-08,Groceries,Milk & Dairy,1116.99,Expense,Debit Card
+TXN1570,2024-09-28,Food & Dining,Swiggy Order,922.16,Expense,UPI
+TXN1265,2024-08-02,Transportation,Ola Ride,992.51,Expense,UPI
+TXN1749,2024-12-17,Transportation,Uber Cab Ride,181.94,Expense,Debit Card
+TXN1224,2024-10-17, transportation ,Uber Cab Ride,377.38,Expense,Debit Card
+TXN1383,2024-01-17,Food & Dining,Office Cafeteria,602.78,expense,Credit Card
+TXN1408,2024-06-04,Food & Dining,Zomato Dinner,1035.5,Expense,Credit Card
+TXN1236,2024-03-19,Entertainment,Movie Tickets Cinema,866.87,Expense,UPI
+TXN1457,2024-12-19,Food & Dining,Coffee Shop,382.97,Expense,Cash
+TXN1210,2024-08-15,Food & Dining,Swiggy Order,532.3,Expense,UPI
+TXN1389,2024-07-15,Entertainment,Gaming & Events,2829.59,Expense,Credit Card
+TXN1430,2024-04-22,Food & Dining,Coffee Shop,407.8,Expense,Credit Card
+TXN1177,2024-02-16,Groceries,Supermarket Grocery,3277.42,Expense,Credit Card
+TXN1688,2024-01-20,Entertainment,Concert Pass,2264.69,Expense,UPI
+TXN1315,2024-06-02,Transportation,Ola Ride,1749.71,Expense,Debit Card
+TXN1276,2024-06-22,Freelance & Side Income,Bonus,16765.16,Income,UPI
+TXN1549,2024-12-12, food & dining ,Office Cafeteria,777.0,Expense,Cash
+TXN1361,2024-03-30,Transportation,Auto Fare,1193.94,Expense,UPI
+TXN1138,2024-10-08,Groceries,D-Mart Hypermarket,1393.03,Expense,Debit Card
+TXN1608,2024-10-26,Groceries,Fresh Vegetables,3013.5,Expense,UPI
+TXN1703,2024-03-02,Health & Fitness,Health Supplements,1918.72,Expense,Cash
+TXN1665,2024-03-25,Food & Dining,Weekend Restaurant,943.65,Expense,UPI
+TXN1164,2024-02-28,Groceries,Supermarket Grocery,2843.68,Expense,UPI
+TXN1339,2024-09-01,Groceries,Fresh Vegetables,376.3,Expense,Debit Card
+TXN1660,2024-04-29,Food & Dining,Zomato Dinner,782.89,Expense,Credit Card
+TXN1075,2024-10-11,Transportation,Auto Fare,375.79,Expense,Cash
+TXN1332,2024-02-15,Transportation,Metro Card Recharge,1151.71,expense,Debit Card
+TXN1587,2024-07-02,Health & Fitness,Doctor Consultation,2659.73,Expense,UPI
+TXN1245,2024-02-03,Groceries,D-Mart Hypermarket,1443.97,Expense,Credit Card
+TXN1328,2024-05-19,Food & Dining,Weekend Restaurant,1068.34,Expense,UPI
+TXN1352,2024-07-14,Groceries,D-Mart Hypermarket,1796.24,Expense,Credit Card
+TXN1483,2024-10-30,Transportation,Auto Fare,1411.39,Expense,UPI
+TXN1105,2024-04-30, transportation ,Metro Card Recharge,1705.39,Expense,UPI
+TXN1115,2024-10-26,Health & Fitness,Pharmacy Medicine,2598.85,expense,Cash
+TXN1675,2024-01-20,Shopping,Amazon Shopping,1243.01,Expense,UPI
+TXN1295,2024-06-14,Health & Fitness,Gym Membership,1168.86,Expense,Cash
+TXN1590,2024-03-22,Food & Dining,Weekend Restaurant,737.82,Expense,Cash
+TXN1093,2024-08-28,Food & Dining,Office Cafeteria,567.56,Expense,UPI
+TXN1090,2024-06-30,Shopping,Footwear,7319.48,Expense,UPI
+TXN1592,2024-07-29, groceries ,Supermarket Grocery,1357.21,Expense,Debit Card
+TXN1449,2024-04-29,Groceries,Supermarket Grocery,3059.24,Expense,UPI
+TXN1696,2024-05-11,Shopping,Electronics & Gadgets,5389.92,Expense,Net Banking
+TXN1426,2024-08-04,Food & Dining,Weekend Restaurant,1007.59,Expense,Cash
+TXN1431,2024-09-10,Transportation,Uber Cab Ride,1228.34,Expense,Cash
+TXN1012,2024-03-11,Subscriptions,"Netflix, Spotify & Cloud Storage",1199.0,Expense,Credit Card
+TXN1044,2024-11-13,Subscriptions,"Netflix, Spotify & Cloud Storage",1199.0,Expense,Credit Card
+TXN1043,2024-11-09,Bills & Utilities,Fiber Broadband & Power Bill,2362.65,Expense,UPI
+TXN1168,2024-10-23,Freelance & Side Income,Bonus,19709.43,Income,UPI
+TXN1658,2024-03-12,Groceries,Fresh Vegetables,2530.48,Expense,Credit Card
+TXN1576,2024-09-30,Transportation,Ola Ride,2089.15,Expense,Debit Card
+TXN1589,2024-08-03,Transportation,Metro Card Recharge,290.64,Expense,Debit Card
+TXN1179,2024-03-15,Food & Dining,Office Cafeteria,844.39,Expense,UPI
+TXN1479,2024-01-05,Freelance & Side Income,Consulting Fee,17901.8,Income,UPI
+TXN1579,2024-11-14,Transportation,Metro Card Recharge,914.4,Expense,UPI
+TXN1178,2024-12-21,Food & Dining,Swiggy Order,178.87,Expense,UPI
+TXN1517,2024-03-26,Health & Fitness,Health Supplements,2668.96,Expense,Debit Card
+TXN1524,2024-08-06, food & dining ,Weekend Restaurant,734.82,Expense,UPI
+TXN1258,2024-09-21,Shopping,Electronics & Gadgets,1178.74,Expense,Credit Card
+TXN1312,2024-10-12,Health & Fitness,Gym Membership,757.36,Expense,Cash
+TXN1412,2024-06-18,Freelance & Side Income,Bonus,6801.06,Income,Net Banking
+TXN1016,2024-04-14,Subscriptions,"Netflix, Spotify & Cloud Storage",1199.0,Expense,Credit Card
+TXN1450,2024-10-30,Food & Dining,Office Cafeteria,131.89,Expense,Cash
+TXN1257,2024-05-08,Food & Dining,Office Cafeteria,1238.87,Expense,Cash
+TXN1534,2024-07-17,Transportation,Ola Ride,725.3,Expense,Cash
+TXN1341,2024-03-01,Groceries,Fresh Vegetables,1910.85,Expense,Credit Card
+TXN1292,2024-07-28,Shopping,Amazon Shopping,1464.75,Expense,Net Banking
+TXN1418,2024-03-25,Health & Fitness,Gym Membership,1644.78,Expense,Cash
+TXN1364,2024-01-30,Transportation,Auto Fare,1196.86,Expense,UPI
+TXN1297,2024-09-14,Transportation,Ola Ride,1980.88,Expense,UPI
+TXN1400,2024-09-04,Shopping,Electronics & Gadgets,2336.73,Expense,Credit Card
+TXN1010,2024-03-04,Rent & Housing,Apartment Monthly Rent & Society Maintenance,18500.0,Expense,Net Banking
+TXN1250,2024-06-07,Food & Dining,Zomato Dinner,557.42,Expense,Credit Card
+TXN1023,2024-06-07,Bills & Utilities,Fiber Broadband & Power Bill,2292.75,Expense,UPI
+TXN1222,2024-10-16,Transportation,Uber Cab Ride,349.42,Expense,Debit Card
+TXN1620,2024-12-16,Groceries,Supermarket Grocery,399.92,Expense,Debit Card
+TXN1644,2024-02-13,Groceries,Milk & Dairy,1165.19,Expense,Credit Card
+TXN1735,2024-11-09,Shopping,Electronics & Gadgets,2564.27,Expense,UPI
+TXN1538,2024-03-14,Transportation,Auto Fare,139.12,Expense,Cash
+TXN1628,2024-06-18,Groceries,Fresh Vegetables,4008.69,Expense,Credit Card
+TXN1204,2024-04-29, groceries ,Fresh Vegetables,3386.28,Expense,Credit Card
+TXN1471,2024-09-17,Food & Dining,Swiggy Order,433.03,Expense,Credit Card
+TXN1094,2024-07-23,Groceries,Supermarket Grocery,4072.52,Expense,Debit Card
+TXN1434,2024-02-14,Groceries,Supermarket Grocery,3336.18,Expense,UPI
+TXN1368,2024-04-18,Health & Fitness,Pharmacy Medicine,2291.26,Expense,Debit Card
+TXN1444,2024-06-14,Shopping,Electronics & Gadgets,4376.44,Expense,Credit Card
+TXN1285,2024-09-22,Groceries,Supermarket Grocery,1357.84,Expense,Debit Card
+TXN1185,2024-12-03,Groceries,Supermarket Grocery,2528.83,Expense,Credit Card
+TXN1607,2024-09-15, food & dining ,Office Cafeteria,125.55,Expense,Cash
+TXN1530,2024-08-31,Transportation,Metro Card Recharge,1031.58,Expense,UPI
+TXN1154,2024-05-19, groceries ,D-Mart Hypermarket,2035.37,Expense,Credit Card
+TXN1076,2024-10-04,Food & Dining,Coffee Shop,193.17,Expense,Cash
+TXN1396,2024-10-11,Groceries,Supermarket Grocery,451.11,Expense,Debit Card
+TXN1278,2024-02-10,Groceries,Milk & Dairy,1530.01,Expense,Credit Card
+TXN1069,2024-08-27,Shopping,Amazon Shopping,5246.22,Expense,UPI
+TXN1690,2024-04-09,Food & Dining,Weekend Restaurant,773.5,Expense,Cash
+TXN1189,2024-03-08,Food & Dining,Coffee Shop,538.2,Expense,Credit Card
+TXN1272,2024-11-19, food & dining ,Zomato Dinner,200.77,Expense,Credit Card
+TXN1237,2024-10-23,Groceries,Milk & Dairy,3677.35,Expense,Credit Card
+TXN1089,2024-01-22,Groceries,Supermarket Grocery,3810.86,Expense,UPI
+TXN1637,2024-04-26,Health & Fitness,Health Supplements,1286.49,Expense,Cash
+TXN1118,2024-12-08,Transportation,Auto Fare,1537.33,Expense,Cash
+TXN1126,2024-06-08,Food & Dining,Swiggy Order,1308.98,Expense,Cash
+TXN1617,2024-03-15, shopping ,Electronics & Gadgets,2007.61,Expense,UPI
+TXN1290,2024-09-09,Food & Dining,Weekend Restaurant,852.52,Expense,Credit Card
+TXN1239,2024-06-07,Groceries,Supermarket Grocery,569.03,Expense,Debit Card
+TXN1001,2024-01-03,Salary,Monthly Corporate Salary Credit,56113.31,Income,Net Banking
+TXN1742,2024-05-08,Shopping,Amazon Shopping,1441.53,Expense,UPI
+TXN1335,2024-06-20,Food & Dining,Weekend Restaurant,791.13,Expense,UPI
+TXN1655,2024-10-29,Food & Dining,Swiggy Order,826.04,Expense,Cash
+TXN1743,2024-08-14,Food & Dining,Swiggy Order,374.95,Expense,Cash
+TXN1279,2024-08-15,Groceries,Supermarket Grocery,3148.24,Expense,Debit Card
+TXN1586,2024-02-18,Shopping,Amazon Shopping,666.74,Expense,Credit Card
+TXN1117,2024-11-04,Health & Fitness,Health Supplements,814.38,Expense,Debit Card
+TXN1229,2024-03-30,Food & Dining,Weekend Restaurant,1020.7,Expense,Cash
+TXN1588,2024-02-28,Groceries,D-Mart Hypermarket,1396.56,Expense,Debit Card
+TXN1381,2024-11-13,Transportation,Fuel Petrol,605.34,Expense,Cash
+TXN1275,2024-03-04,Shopping,Footwear,6737.46,Expense,UPI
+TXN1319,2024-07-13,Food & Dining,Zomato Dinner,160.41,expense,Cash
+TXN1515,2024-02-15,Shopping,Electronics & Gadgets,3681.75,Expense,Net Banking
+TXN1145,2024-11-18,Transportation,Metro Card Recharge,364.36,Expense,Debit Card
+TXN1451,2024-08-04,Transportation,Auto Fare,204.49,Expense,Cash
+TXN1714,2024-01-25,Groceries,Fresh Vegetables,581.14,Expense,Debit Card
+TXN1679,2024-02-12, food & dining ,Weekend Restaurant,643.07,Expense,UPI
+TXN1548,2024-01-26,Food & Dining,Weekend Restaurant,1118.18,Expense,UPI
+TXN1269,2024-07-10,Food & Dining,Swiggy Order,577.08,Expense,UPI
+TXN1531,2024-01-18,Groceries,Fresh Vegetables,813.09,Expense,Debit Card
+TXN1308,2024-12-10,Groceries,Supermarket Grocery,3611.61,Expense,Debit Card
+TXN1311,2024-12-14,Transportation,Metro Card Recharge,2049.17,Expense,Cash
+TXN1047,2024-12-07,Bills & Utilities,Fiber Broadband & Power Bill,2809.13,Expense,UPI
+TXN1350,2024-12-24,Food & Dining,Swiggy Order,1316.27,Expense,UPI
+TXN1262,2024-01-20,Food & Dining,Office Cafeteria,1010.97,Expense,UPI
+TXN1196,2024-08-25,Health & Fitness,Doctor Consultation,2017.87,Expense,UPI
+TXN1750,2024-02-24,Food & Dining,Zomato Dinner,525.43,Expense,Cash
+TXN1629,2024-11-28,Food & Dining,Coffee Shop,690.45,Expense,Cash
+TXN1108,2024-02-24,Entertainment,Gaming & Events,862.84,Expense,UPI
+TXN1060,2024-09-28,Health & Fitness,Doctor Consultation,1568.1,Expense,UPI
+TXN1684,2024-06-06,Transportation,Auto Fare,1561.0,Expense,Debit Card
+TXN1694,2024-04-25,Transportation,Metro Card Recharge,987.71,Expense,Cash
+TXN1101,2024-08-03,Transportation,Auto Fare,1441.73,Expense,UPI
+TXN1417,2024-01-23,Shopping,Amazon Shopping,755.84,Expense,Net Banking
+TXN1672,2024-12-03,Groceries,Fresh Vegetables,3138.12,Expense,Debit Card
+TXN1546,2024-05-03,Groceries,D-Mart Hypermarket,1033.7,Expense,Debit Card
+TXN1397,2024-06-15,Shopping,Amazon Shopping,2613.75,Expense,Net Banking
+TXN1180,2024-07-14,Transportation,Metro Card Recharge,1075.24,Expense,Debit Card
+TXN1305,2024-03-22,Shopping,Electronics & Gadgets,1909.86,Expense,Credit Card
+TXN1376,2024-02-08,Health & Fitness,Pharmacy Medicine,2340.15,Expense,Debit Card
+TXN1425,2024-04-03,Groceries,Fresh Vegetables,2316.68,Expense,Debit Card
+TXN1722,2024-04-04,Shopping,Clothing & Apparel,5621.63,Expense,UPI
+TXN1150,2024-10-31,Groceries,Supermarket Grocery,1241.18,Expense,Credit Card
+TXN1125,2024-07-07,Food & Dining,Weekend Restaurant,1353.58,Expense,Cash
+TXN1595,2024-10-12,Health & Fitness,Pharmacy Medicine,232.61,Expense,UPI
+TXN1652,2024-07-02,Entertainment,Concert Pass,2065.35,Expense,Credit Card
+TXN1186,2024-11-06,Entertainment,Weekend Outing,2782.37,Expense,Credit Card
+TXN1707,2024-08-22, freelance & side income ,Bonus,10366.07,Income,Net Banking
+TXN1466,2024-12-02,Entertainment,Movie Tickets Cinema,340.53,Expense,Credit Card
+TXN1409,2024-09-02,Transportation,Ola Ride,1093.49,expense,Debit Card
+TXN1740,2024-09-12,Freelance & Side Income,Bonus,16847.89,Income,Net Banking
+TXN1410,2024-07-03,Entertainment,Movie Tickets Cinema,649.98,Expense,Credit Card
+TXN1322,2024-12-05,Groceries,D-Mart Hypermarket,1557.95,Expense,UPI
+TXN1354,2024-04-24,Shopping,Amazon Shopping,7351.59,Expense,Net Banking
+TXN1692,2024-06-29, transportation ,Auto Fare,1255.6,Expense,Debit Card
+TXN1143,2024-02-22,Shopping,Electronics & Gadgets,3838.84,Expense,Net Banking
+TXN1718,2024-05-26,Groceries,Fresh Vegetables,3692.79,Expense,Credit Card
+TXN1142,2024-01-24,Freelance & Side Income,Stock Dividend Payout,16856.1,Income,Net Banking
+TXN1545,2024-05-20,Groceries,D-Mart Hypermarket,2294.74,Expense,Credit Card
+TXN1321,2024-08-29,Shopping,Amazon Shopping,5469.85,Expense,UPI
+TXN1020,2024-05-13,Subscriptions,"Netflix, Spotify & Cloud Storage",1199.0,Expense,Credit Card
+TXN1173,2024-08-13,Food & Dining,Office Cafeteria,139.64,Expense,UPI
+TXN1611,2024-03-09,Food & Dining,Weekend Restaurant,1016.02,Expense,Cash
+TXN1313,2024-01-20,Food & Dining,Coffee Shop,1149.08,Expense,Cash
+TXN1698,2024-07-14,Transportation,Metro Card Recharge,1440.9,Expense,UPI
+TXN1013,2024-04-03,Salary,Monthly Corporate Salary Credit,56988.38,Income,Net Banking
+TXN1306,2024-09-12,Shopping,Footwear,759.92,Expense,Net Banking
+TXN1355,2024-09-29,Groceries,Fresh Vegetables,1302.92,Expense,Debit Card
+TXN1026,2024-07-06,Rent & Housing,Apartment Monthly Rent & Society Maintenance,18500.0,Expense,Net Banking
+TXN1560,2024-04-02,Food & Dining,Office Cafeteria,283.77,Expense,Credit Card
+TXN1170,2024-05-02, transportation ,Metro Card Recharge,1806.27,Expense,Cash
+TXN1039,2024-10-07,Bills & Utilities,Fiber Broadband & Power Bill,3055.32,Expense,UPI
+TXN1478,2024-05-05,Food & Dining,Office Cafeteria,150.61,Expense,Cash
+TXN1246,2024-11-04,Shopping,Electronics & Gadgets,1162.36,Expense,UPI
+TXN1299,2024-10-22,Food & Dining,Zomato Dinner,1101.71,expense,Credit Card
+TXN1625,2024-11-01,Food & Dining,Weekend Restaurant,1199.22,Expense,Credit Card
+TXN1512,2024-05-30,Food & Dining,Swiggy Order,1334.45,Expense,Cash
+TXN1273,2024-04-12,Health & Fitness,Doctor Consultation,2813.44,Expense,Cash
+TXN1604,2024-03-25,Groceries,D-Mart Hypermarket,761.8,Expense,Credit Card
+TXN1155,2024-06-14,Transportation,Uber Cab Ride,246.31,Expense,Debit Card
+TXN1127,2024-07-22,Health & Fitness,Gym Membership,412.79,Expense,Cash
+TXN1535,2024-01-07,Shopping,Footwear,1376.38,Expense,Credit Card
+TXN1342,2024-06-08,Transportation,Fuel Petrol,809.79,Expense,UPI
+TXN1288,2024-10-08,Transportation,Fuel Petrol,1796.78,Expense,Debit Card
+TXN1114,2024-07-31,Groceries,D-Mart Hypermarket,1950.73,Expense,UPI
+TXN1435,2024-12-18,Groceries,D-Mart Hypermarket,989.03,Expense,UPI
+TXN1174,2024-03-20,Food & Dining,Coffee Shop,553.36,Expense,Cash
+TXN1360,2024-03-14,Freelance & Side Income,Freelance Web Project,12030.52,Income,UPI
+TXN1513,2024-10-17,Food & Dining,Weekend Restaurant,527.32,Expense,Cash
+TXN1058,2024-05-14,Freelance & Side Income,Freelance Web Project,13630.59,Income,Net Banking
+TXN1516,2024-06-28,Food & Dining,Swiggy Order,1042.13,Expense,UPI
+TXN1223,2024-09-28,Food & Dining,Office Cafeteria,700.67,Expense,UPI
+TXN1281,2024-12-13,Food & Dining,Swiggy Order,302.76,Expense,Cash
+TXN1018,2024-05-04,Rent & Housing,Apartment Monthly Rent & Society Maintenance,18500.0,Expense,Net Banking
+TXN1480,2024-02-23,Food & Dining,Zomato Dinner,657.36,Expense,UPI
+TXN1323,2024-10-06,Groceries,Milk & Dairy,2698.79,Expense,UPI
+TXN1256,2024-05-24,Entertainment,Concert Pass,3392.06,Expense,Credit Card
+TXN1729,2024-11-23,Transportation,Fuel Petrol,1914.2,Expense,Cash
+TXN1719,2024-11-19,Transportation,Auto Fare,1791.76,Expense,UPI
+TXN1720,2024-06-09,Groceries,Milk & Dairy,3085.17,Expense,Credit Card
+TXN1191,2024-09-03,Freelance & Side Income,Stock Dividend Payout,17691.51,Income,UPI
+TXN1116,2024-06-29,Food & Dining,Office Cafeteria,1212.41,Expense,Credit Card
+TXN1734,2024-07-18,Shopping,Clothing & Apparel,2414.56,Expense,Net Banking
+TXN1559,2024-08-31,Health & Fitness,Doctor Consultation,1620.48,Expense,UPI
+TXN1095,2024-12-13,Freelance & Side Income,Stock Dividend Payout,20967.03,Income,Net Banking
+TXN1181,2024-05-10,Groceries,Supermarket Grocery,3810.8,Expense,Debit Card
+TXN1302,2024-06-09,Shopping,Electronics & Gadgets,5665.98,Expense,Net Banking
+TXN1504,2024-07-02,Health & Fitness,Pharmacy Medicine,2169.67,Expense,Debit Card
+TXN1553,2024-07-10,Transportation,Ola Ride,1302.46,Expense,Cash
+TXN1610,2024-11-07,Health & Fitness,Gym Membership,966.07,Expense,Debit Card
+TXN1522,2024-04-15,Freelance & Side Income,Bonus,16852.34,Income,UPI
+TXN1663,2024-02-09,Groceries,D-Mart Hypermarket,4094.8,Expense,UPI
+TXN1599,2024-01-10, food & dining ,Office Cafeteria,165.86,Expense,Cash
+TXN1006,2024-02-06,Rent & Housing,Apartment Monthly Rent & Society Maintenance,18500.0,Expense,Net Banking
+TXN1736,2024-04-06,Shopping,Clothing & Apparel,1542.71,Expense,Credit Card
+TXN1046,2024-12-06,Rent & Housing,Apartment Monthly Rent & Society Maintenance,18500.0,Expense,Net Banking
+TXN1474,2024-12-10,Health & Fitness,Gym Membership,824.92,Expense,Cash
+TXN1568,2024-02-15,Food & Dining,Office Cafeteria,930.86,Expense,Credit Card
+TXN1172,2024-03-18,Groceries,Supermarket Grocery,836.05,Expense,Credit Card
+TXN1017,2024-05-03,Salary,Monthly Corporate Salary Credit,57781.91,Income,Net Banking
+TXN1049,2024-09-30,Entertainment,Gaming & Events,1779.23,Expense,UPI
+TXN1726,2024-03-05,Food & Dining,Zomato Dinner,156.57,Expense,Cash
+TXN1711,2024-12-17,Food & Dining,Swiggy Order,1042.64,Expense,UPI
+TXN1004,2024-01-12,Subscriptions,"Netflix, Spotify & Cloud Storage",1199.0,Expense,Credit Card
+TXN1540,2024-12-22,Transportation,Metro Card Recharge,334.15,Expense,Debit Card
+TXN1487,2024-06-06,Groceries,Supermarket Grocery,698.12,Expense,Credit Card
+TXN1317,2024-12-18,Transportation,Ola Ride,1028.16,Expense,Debit Card
+TXN1526,2024-12-04,Food & Dining,Weekend Restaurant,616.03,Expense,Credit Card
+TXN1448,2024-02-12,Groceries,Fresh Vegetables,549.38,Expense,Credit Card
+TXN1691,2024-01-19,Groceries,Supermarket Grocery,4106.24,Expense,UPI
+TXN1284,2024-07-22, groceries ,Milk & Dairy,1311.0,Expense,UPI
+TXN1097,2024-08-11,Transportation,Ola Ride,295.92,Expense,Debit Card
+TXN1286,2024-11-09,Food & Dining,Office Cafeteria,376.23,Expense,UPI
+TXN1488,2024-11-04,Food & Dining,Coffee Shop,309.85,Expense,Cash
+TXN1226,2024-02-28,Groceries,Supermarket Grocery,1440.5,Expense,Credit Card
+TXN1027,2024-07-09,Bills & Utilities,Fiber Broadband & Power Bill,3007.13,Expense,UPI
+TXN1591,2024-07-13,Entertainment,Movie Tickets Cinema,3060.24,Expense,Credit Card
+TXN1264,2024-11-07,Transportation,Uber Cab Ride,1643.39,Expense,UPI
+TXN1438,2024-02-18,Food & Dining,Office Cafeteria,1296.02,Expense,Credit Card
+TXN1051,2024-06-10,Groceries,Supermarket Grocery,1162.28,Expense,Credit Card
+TXN1365,2024-06-18,Transportation,Auto Fare,1788.15,Expense,UPI
+TXN1230,2024-06-30,Food & Dining,Swiggy Order,678.36,Expense,Credit Card
+TXN1038,2024-10-05,Rent & Housing,Apartment Monthly Rent & Society Maintenance,18500.0,Expense,Net Banking
+TXN1158,2024-07-28,Groceries,Supermarket Grocery,3652.27,Expense,Debit Card
+TXN1238,2024-08-28,Groceries,Milk & Dairy,3415.87,Expense,Credit Card
+TXN1721,2024-08-15,Shopping,Electronics & Gadgets,5760.48,Expense,UPI
+TXN1375,2024-09-07,Food & Dining,Weekend Restaurant,1387.61,Expense,UPI
+TXN1470,2024-03-26,Groceries,Milk & Dairy,3327.32,Expense,Credit Card
+TXN1371,2024-08-28,Entertainment,Weekend Outing,3225.86,Expense,UPI
+TXN1443,2024-02-02,Shopping,Footwear,2103.03,Expense,Net Banking
+TXN1723,2024-02-10,Food & Dining,Office Cafeteria,251.85,Expense,UPI
+TXN1176,2024-10-04,Food & Dining,Swiggy Order,420.51,Expense,Cash
+TXN1638,2024-07-18,Transportation,Ola Ride,72.03,Expense,Debit Card
+TXN1128,2024-12-22,Entertainment,Movie Tickets Cinema,2847.93,Expense,Credit Card
+TXN1555,2024-11-29,Food & Dining,Zomato Dinner,782.14,Expense,UPI
+TXN1195,2024-01-13,Transportation,Ola Ride,729.13,Expense,Debit Card
+TXN1640,2024-06-03,Transportation,Fuel Petrol,1621.16,Expense,Cash
+TXN1654,2024-02-09,Entertainment,Movie Tickets Cinema,3018.68,Expense,Credit Card
+TXN1502,2024-09-30,Shopping,Amazon Shopping,5871.94,Expense,Credit Card
+TXN1518,2024-09-02,Shopping,Clothing & Apparel,1722.33,expense,Credit Card
+TXN1528,2024-03-18,Entertainment,Movie Tickets Cinema,574.26,Expense,UPI
+TXN1725,2024-02-13,Transportation,Auto Fare,691.12,Expense,UPI
+TXN1626,2024-07-02,Food & Dining,Coffee Shop,792.51,Expense,UPI
+TXN1646,2024-01-28,Shopping,Footwear,5048.25,Expense,Credit Card
+TXN1068,2024-08-30,Shopping,Clothing & Apparel,1250.85,Expense,UPI
+TXN1724,2024-01-28,Food & Dining,Office Cafeteria,790.7,Expense,UPI
+TXN1484,2024-06-10,Health & Fitness,Health Supplements,2162.03,Expense,Cash
+TXN1169,2024-10-09,Entertainment,Concert Pass,1757.1,Expense,UPI
+TXN1445,2024-06-24,Health & Fitness,Pharmacy Medicine,328.64,Expense,Cash
+TXN1520,2024-02-08,Transportation,Uber Cab Ride,749.42,Expense,Debit Card
+TXN1163,2024-03-22,Groceries,Supermarket Grocery,2476.17,Expense,UPI
+TXN1310,2024-10-10,Food & Dining,Office Cafeteria,765.45,Expense,Cash
+TXN1194,2024-12-10,Food & Dining,Office Cafeteria,1172.69,Expense,Credit Card
+TXN1537,2024-05-15, groceries ,D-Mart Hypermarket,2552.29,Expense,Debit Card
+TXN1366,2024-01-27,Food & Dining,Weekend Restaurant,891.74,Expense,UPI
+TXN1384,2024-03-28,Food & Dining,Office Cafeteria,945.48,Expense,Credit Card
+TXN1677,2024-08-07,Food & Dining,Office Cafeteria,1130.63,Expense,Credit Card
+TXN1544,2024-04-12,Shopping,Clothing & Apparel,828.19,Expense,Credit Card
+TXN1153,2024-03-25,Shopping,Electronics & Gadgets,3630.16,Expense,Net Banking
+TXN1657,2024-02-16,Groceries,Supermarket Grocery,2901.31,Expense,Credit Card
+TXN1536,2024-02-21,Health & Fitness,Pharmacy Medicine,2400.09,Expense,Cash
+TXN1112,2024-11-16,Food & Dining,Office Cafeteria,219.18,Expense,Credit Card
+TXN1227,2024-06-06, food & dining ,Office Cafeteria,1380.09,Expense,UPI
+TXN1527,2024-08-16,Food & Dining,Office Cafeteria,715.27,Expense,UPI
+TXN1699,2024-06-29,Groceries,Supermarket Grocery,3048.15,Expense,Debit Card
+TXN1104,2024-03-27,Transportation,Fuel Petrol,1111.52,Expense,Debit Card
+TXN1422,2024-08-22,Food & Dining,Office Cafeteria,795.48,Expense,Cash
+TXN1420,2024-01-15,Entertainment,Gaming & Events,1738.64,Expense,UPI
+TXN1120,2024-03-10,Shopping,Clothing & Apparel,946.96,Expense,Net Banking
+TXN1054,2024-03-11,Groceries,Supermarket Grocery,3259.76,Expense,UPI
+TXN1152,2024-04-11,Groceries,Fresh Vegetables,2843.39,Expense,Debit Card
+TXN1404,2024-07-22,Freelance & Side Income,Stock Dividend Payout,17492.86,Income,UPI
+TXN1706,2024-09-01,Health & Fitness,Pharmacy Medicine,1606.93,Expense,Debit Card
+TXN1208,2024-09-14,Food & Dining,Weekend Restaurant,175.51,Expense,Cash
+TXN1633,2024-10-02,Transportation,Uber Cab Ride,489.99,Expense,Debit Card
+TXN1581,2024-09-24,Freelance & Side Income,Stock Dividend Payout,16958.42,Income,UPI
+TXN1009,2024-03-01,Salary,Monthly Corporate Salary Credit,55297.97,Income,Net Banking
+TXN1609,2024-07-17,Transportation,Ola Ride,1860.7,Expense,Debit Card
+TXN1037,2024-10-01,Salary,Monthly Corporate Salary Credit,61612.63,Income,Net Banking
+TXN1453,2024-02-05,Transportation,Uber Cab Ride,1305.05,Expense,UPI
+TXN1254,2024-05-01,Freelance & Side Income,Stock Dividend Payout,17790.65,Income,UPI
+TXN1304,2024-03-13,Food & Dining,Coffee Shop,1330.09,Expense,Cash
+TXN1569,2024-01-03,Food & Dining,Zomato Dinner,1055.24,Expense,UPI
+TXN1542,2024-09-05,Entertainment,Weekend Outing,2927.26,Expense,Credit Card
+TXN1550,2024-11-27,Food & Dining,Swiggy Order,406.43,Expense,Cash
+TXN1263,2024-11-11,Food & Dining,Swiggy Order,144.32,Expense,UPI
+TXN1298,2024-11-05,Groceries,Supermarket Grocery,3527.16,Expense,UPI
+TXN1415,2024-02-13,Food & Dining,Zomato Dinner,565.86,Expense,Credit Card
+TXN1151,2024-02-06,Transportation,Fuel Petrol,1667.17,Expense,Debit Card
+TXN1597,2024-01-26,Groceries,D-Mart Hypermarket,1902.62,Expense,UPI
+TXN1667,2024-09-03,Transportation,Auto Fare,489.84,Expense,UPI
+TXN1489,2024-09-19, food & dining ,Coffee Shop,453.01,Expense,UPI
+TXN1148,2024-11-08,Freelance & Side Income,Consulting Fee,21109.03,Income,Net Banking
+TXN1147,2024-08-18,Health & Fitness,Doctor Consultation,2608.47,Expense,Debit Card
+TXN1551,2024-12-29,Transportation,Auto Fare,1886.79,Expense,Cash
+TXN1695,2024-07-27,Groceries,Supermarket Grocery,2287.2,Expense,Debit Card
+TXN1577,2024-01-25,Transportation,Auto Fare,966.4,Expense,UPI
+TXN1349,2024-01-12,Groceries,Supermarket Grocery,3221.35,Expense,Credit Card
+TXN1464,2024-06-16,Groceries,Supermarket Grocery,1544.15,Expense,Debit Card
+TXN1326,2024-07-21,Shopping,Clothing & Apparel,2604.12,Expense,Net Banking
+TXN1187,2024-11-21,Food & Dining,Coffee Shop,987.54,Expense,Cash
+TXN1124,2024-05-02,Food & Dining,Swiggy Order,841.88,Expense,UPI
+TXN1639,2024-10-26,Food & Dining,Swiggy Order,577.86,Expense,Cash
+TXN1144,2024-05-09,Health & Fitness,Health Supplements,519.44,Expense,UPI
+TXN1716,2024-06-28,Shopping,Clothing & Apparel,4580.29,Expense,UPI
+TXN1198,2024-12-22,Health & Fitness,Health Supplements,1844.55,Expense,Cash
+TXN1280,2024-11-23,Freelance & Side Income,Consulting Fee,6275.7,Income,UPI
+TXN1294,2024-03-07,Groceries,Supermarket Grocery,3550.85,Expense,Credit Card
+TXN1401,2024-11-11,Food & Dining,Swiggy Order,293.43,Expense,UPI
+TXN1123,2024-11-29,Food & Dining,Swiggy Order,1335.5,Expense,UPI
+TXN1184,2024-07-14,Transportation,Ola Ride,663.58,Expense,Debit Card
+TXN1203,2024-03-05,Shopping,Clothing & Apparel,1073.41,Expense,UPI
+TXN1439,2024-03-08,Food & Dining,Coffee Shop,1180.46,Expense,Cash
+TXN1247,2024-12-01,Transportation,Auto Fare,323.06,Expense,Debit Card
+TXN1416,2024-09-04,Groceries,Supermarket Grocery,2036.94,Expense,Credit Card
+TXN1666,2024-11-04,Entertainment,Movie Tickets Cinema,2415.55,Expense,UPI
+TXN1130,2024-07-04,Transportation,Auto Fare,1502.91,Expense,Cash
+TXN1403,2024-10-31,Food & Dining,Coffee Shop,892.11,Expense,Cash
+TXN1649,2024-11-11,Transportation,Ola Ride,370.89,Expense,Debit Card
+TXN1585,2024-03-30,Shopping,Electronics & Gadgets,3085.48,Expense,UPI
+TXN1680,2024-01-04,Transportation,Uber Cab Ride,1120.31,Expense,Cash
+TXN1220,2024-11-14,Transportation,Ola Ride,113.56,Expense,Debit Card
+TXN1715,2024-08-18,Entertainment,Weekend Outing,1455.08,Expense,UPI
+TXN1572,2024-06-01,Health & Fitness,Health Supplements,2237.93,Expense,Cash
+TXN1685,2024-12-24,Health & Fitness,Pharmacy Medicine,800.48,Expense,Debit Card
+TXN1580,2024-05-24,Food & Dining,Swiggy Order,757.11,Expense,Cash
+TXN1387,2024-06-10,Food & Dining,Zomato Dinner,871.41,Expense,Cash
+TXN1727,2024-08-31,Groceries,Milk & Dairy,2461.9,Expense,UPI
+TXN1510,2024-08-11,Shopping,Footwear,5079.34,Expense,Credit Card
+TXN1268,2024-02-04, freelance & side income ,Consulting Fee,11637.71,Income,UPI
+TXN1618,2024-02-22,Transportation,Ola Ride,1824.28,Expense,Debit Card
+TXN1442,2024-10-24,Food & Dining,Swiggy Order,1055.59,Expense,Credit Card
+TXN1497,2024-10-08,Groceries,Supermarket Grocery,1427.14,Expense,UPI
+TXN1113,2024-10-03,Food & Dining,Zomato Dinner,416.01,Expense,Cash
+TXN1233,2024-02-24,Food & Dining,Weekend Restaurant,632.58,Expense,UPI
+TXN1653,2024-05-23,Shopping,Clothing & Apparel,6749.95,Expense,Credit Card
+TXN1374,2024-09-07,Freelance & Side Income,Bonus,12834.09,Income,UPI
+TXN1234,2024-06-22,Food & Dining,Zomato Dinner,217.77,Expense,Cash
+TXN1594,2024-11-12,Food & Dining,Zomato Dinner,736.87,Expense,Cash
+TXN1318,2024-10-22,Food & Dining,Swiggy Order,866.91,Expense,UPI
+TXN1411,2024-11-27,Transportation,Ola Ride,2066.56,Expense,Debit Card
+TXN1671,2024-09-03,Food & Dining,Office Cafeteria,889.07,Expense,Cash
+TXN1359,2024-04-29,Shopping,Electronics & Gadgets,4584.58,Expense,UPI
+TXN1259,2024-03-16,Shopping,Amazon Shopping,7130.25,Expense,Credit Card
+TXN1283,2024-08-18,Health & Fitness,Doctor Consultation,1443.03,Expense,UPI
+TXN1377,2024-02-04,Entertainment,Movie Tickets Cinema,999.9,Expense,UPI
+TXN1385,2024-02-18,Health & Fitness,Pharmacy Medicine,843.35,Expense,Cash
+TXN1225,2024-08-14,Transportation,Auto Fare,1298.44,Expense,Cash
+TXN1712,2024-04-10,Food & Dining,Zomato Dinner,725.42,Expense,UPI
+TXN1614,2024-06-29,Transportation,Ola Ride,1224.1,Expense,Debit Card
+TXN1473,2024-06-13,Food & Dining,Coffee Shop,467.21,Expense,UPI
+TXN1348,2024-03-08,Groceries,D-Mart Hypermarket,2521.06,Expense,Credit Card
+TXN1506,2024-04-29,Transportation,Uber Cab Ride,1133.95,Expense,UPI
+TXN1739,2024-04-29,Food & Dining,Swiggy Order,751.78,Expense,Credit Card
+TXN1693,2024-02-16,Transportation,Ola Ride,1926.62,Expense,Cash
+TXN1676,2024-01-01,Health & Fitness,Health Supplements,1661.72,Expense,Debit Card
+TXN1641,2024-01-16,Groceries,Fresh Vegetables,875.07,Expense,Debit Card
+TXN1634,2024-08-05,Shopping,Clothing & Apparel,4310.5,Expense,UPI
+TXN1557,2024-05-31, food & dining ,Office Cafeteria,637.89,Expense,Cash
+TXN1578,2024-03-19,Food & Dining,Swiggy Order,505.43,Expense,Cash
+TXN1086,2024-02-17,Transportation,Fuel Petrol,149.94,Expense,Cash
+TXN1243,2024-05-06,Entertainment,Concert Pass,1977.02,Expense,Credit Card
+TXN1160,2024-07-25,Shopping,Amazon Shopping,5137.86,Expense,UPI
+TXN1525,2024-05-29,Freelance & Side Income,Bonus,19344.07,Income,UPI
+TXN1036,2024-09-11,Subscriptions,"Netflix, Spotify & Cloud Storage",1199.0,Expense,Credit Card
+TXN1541,2024-05-17,Entertainment,Movie Tickets Cinema,901.39,Expense,Credit Card
+TXN1171,2024-12-27,Health & Fitness,Health Supplements,1281.02,Expense,Cash
+TXN1643,2024-10-11,Food & Dining,Swiggy Order,126.44,Expense,Cash
+TXN1635,2024-08-10, transportation ,Uber Cab Ride,1583.66,Expense,UPI
+TXN1705,2024-09-18,Food & Dining,Zomato Dinner,1080.22,Expense,UPI
+TXN1096,2024-10-24,Freelance & Side Income,Stock Dividend Payout,5650.37,Income,UPI
+TXN1564,2024-09-13,Food & Dining,Office Cafeteria,798.19,Expense,Credit Card
+TXN1241,2024-01-22,Groceries,Fresh Vegetables,1587.88,Expense,Debit Card
+TXN1575,2024-09-15,Food & Dining,Coffee Shop,1030.22,Expense,UPI
+TXN1461,2024-05-14,Food & Dining,Swiggy Order,1334.31,Expense,Credit Card
+TXN1554,2024-06-21,Freelance & Side Income,Stock Dividend Payout,19645.36,Income,UPI
+TXN1659,2024-09-04,Health & Fitness,Pharmacy Medicine,812.69,Expense,Debit Card
+TXN1207,2024-08-03,Transportation,Uber Cab Ride,1031.54,Expense,Cash
+TXN1393,2024-11-12,Food & Dining,Zomato Dinner,1032.78,Expense,UPI
+TXN1398,2024-10-13,Health & Fitness,Gym Membership,1801.49,Expense,UPI
+TXN1636,2024-01-20,Food & Dining,Swiggy Order,347.83,Expense,Credit Card
+TXN1218,2024-06-08,Groceries,Fresh Vegetables,945.71,Expense,Debit Card
+TXN1005,2024-02-03,Salary,Monthly Corporate Salary Credit,56024.95,Income,Net Banking
+TXN1670,2024-10-15,Transportation,Fuel Petrol,1992.4,Expense,UPI
+TXN1613,2024-12-10,Food & Dining,Zomato Dinner,764.98,Expense,Cash
+TXN1547,2024-03-24,Shopping,Electronics & Gadgets,5767.83,expense,UPI
+TXN1099,2024-08-08,Food & Dining,Coffee Shop,917.64,Expense,Cash
+TXN1574,2024-07-25,Food & Dining,Zomato Dinner,1050.78,expense,UPI
+TXN1407,2024-08-12,Shopping,Amazon Shopping,6250.86,Expense,Net Banking
+TXN1503,2024-07-17,Groceries,Fresh Vegetables,1027.99,Expense,Credit Card
+TXN1048,2024-12-12,Subscriptions,"Netflix, Spotify & Cloud Storage",1199.0,Expense,Credit Card
+TXN1033,2024-09-03,Salary,Monthly Corporate Salary Credit,63854.52,Income,Net Banking
+TXN1201,2024-11-26,Groceries,D-Mart Hypermarket,1412.14,Expense,UPI
+TXN1135,2024-01-06,Groceries,Fresh Vegetables,679.61,Expense,Credit Card
+TXN1028,2024-07-16,Subscriptions,"Netflix, Spotify & Cloud Storage",1199.0,Expense,Credit Card
+TXN1661,2024-01-24,Food & Dining,Coffee Shop,252.13,Expense,Cash
+TXN1231,2024-10-21,Groceries,D-Mart Hypermarket,3081.57,Expense,Debit Card
+TXN1490,2024-08-19,Transportation,Ola Ride,569.7,Expense,Cash
+TXN1379,2024-01-07, food & dining ,Coffee Shop,805.74,Expense,Credit Card
+TXN1289,2024-03-30,Shopping,Clothing & Apparel,1437.4,Expense,Credit Card
+TXN1419,2024-08-24,Food & Dining,Office Cafeteria,926.09,Expense,UPI
+TXN1392,2024-04-26,Groceries,D-Mart Hypermarket,2012.61,Expense,Credit Card
+TXN1593,2024-09-25,Entertainment,Gaming & Events,3429.27,Expense,UPI
+TXN1499,2024-10-05,Shopping,Electronics & Gadgets,6897.47,Expense,UPI
+TXN1139,2024-06-10,Food & Dining,Weekend Restaurant,1337.12,Expense,Cash
+TXN1063,2024-09-27,Shopping,Footwear,7254.1,Expense,UPI
+TXN1472,2024-04-01,Health & Fitness,Pharmacy Medicine,1748.02,Expense,Cash
+TXN1648,2024-04-30,Food & Dining,Weekend Restaurant,209.36,Expense,UPI
+TXN1129,2024-07-08,Food & Dining,Coffee Shop,136.19,Expense,Credit Card
+TXN1730,2024-08-14, groceries ,D-Mart Hypermarket,1350.26,Expense,Debit Card
+TXN1521,2024-08-08,Health & Fitness,Gym Membership,1900.49,Expense,Debit Card
+TXN1065,2024-02-02,Groceries,Fresh Vegetables,2615.49,Expense,UPI
+TXN1015,2024-04-11,Bills & Utilities,Fiber Broadband & Power Bill,2619.52,Expense,UPI
+TXN1157,2024-05-22,Food & Dining,Weekend Restaurant,677.93,Expense,Credit Card
+TXN1041,2024-11-02,Salary,Monthly Corporate Salary Credit,57779.74,Income,Net Banking
+TXN1493,2024-11-26,Groceries,Fresh Vegetables,704.12,Expense,Debit Card
+TXN1380,2024-12-11,Groceries,Fresh Vegetables,762.01,Expense,UPI
+TXN1188,2024-03-11, transportation ,Uber Cab Ride,690.22,Expense,Cash
+TXN1217,2024-12-06,Health & Fitness,Health Supplements,2630.66,Expense,Cash
+TXN1053,2024-05-14,Entertainment,Concert Pass,3173.03,Expense,UPI
+TXN1338,2024-07-26,Shopping,Electronics & Gadgets,1198.49,Expense,UPI
+TXN1296,2024-05-08,Food & Dining,Weekend Restaurant,471.3,Expense,Cash
+TXN1252,2024-01-20,Transportation,Ola Ride,327.34,Expense,Cash
+TXN1462,2024-09-13,Entertainment,Concert Pass,2545.79,Expense,Credit Card
+TXN1456,2024-03-12,Food & Dining,Swiggy Order,437.65,Expense,Cash
+TXN1748,2024-12-19,Groceries,Fresh Vegetables,1779.88,Expense,UPI
+TXN1270,2024-11-17,Food & Dining,Weekend Restaurant,1061.04,Expense,Credit Card
+TXN1202,2024-02-16,Transportation,Ola Ride,2041.03,Expense,UPI
+TXN1162,2024-05-27,Groceries,D-Mart Hypermarket,817.49,Expense,Credit Card
+TXN1556,2024-11-03, groceries ,Milk & Dairy,2970.91,Expense,Credit Card
+TXN1402,2024-11-13,Groceries,Milk & Dairy,2044.86,Expense,Debit Card
+TXN1477,2024-07-07,Transportation,Auto Fare,2095.49,Expense,UPI
+TXN1106,2024-08-31,Transportation,Uber Cab Ride,989.05,Expense,Debit Card
+TXN1566,2024-04-02,Entertainment,Concert Pass,1364.41,Expense,Credit Card
+TXN1390,2024-01-28,Food & Dining,Zomato Dinner,1193.5,Expense,Credit Card
+TXN1002,2024-01-06,Rent & Housing,Apartment Monthly Rent & Society Maintenance,18500.0,Expense,Net Banking
+TXN1713,2024-11-18,Groceries,Milk & Dairy,3373.53,Expense,Debit Card
+TXN1562,2024-06-06,Groceries,Milk & Dairy,1780.98,Expense,Credit Card
+TXN1081,2024-10-15,Freelance & Side Income,Consulting Fee,14139.78,Income,UPI
+TXN1206,2024-01-08,Groceries,Fresh Vegetables,2617.08,Expense,UPI
+TXN1035,2024-09-11,Bills & Utilities,Fiber Broadband & Power Bill,2392.29,Expense,UPI
+TXN1509,2024-12-05,Groceries,Supermarket Grocery,1645.76,Expense,Debit Card
+TXN1428,2024-01-05,Groceries,Fresh Vegetables,3488.58,Expense,Credit Card
+TXN1455,2024-02-21,Food & Dining,Swiggy Order,874.65,Expense,Credit Card
+TXN1367,2024-12-09,Transportation,Auto Fare,486.13,Expense,Cash
+TXN1092,2024-07-29,Shopping,Clothing & Apparel,2440.96,Expense,UPI
+TXN1340,2024-06-17,Groceries,Supermarket Grocery,1356.98,Expense,Debit Card
+TXN1565,2024-03-11,Freelance & Side Income,Stock Dividend Payout,11956.26,Income,UPI
+TXN1346,2024-09-15,Food & Dining,Weekend Restaurant,311.81,Expense,Credit Card
+TXN1242,2024-08-18,Food & Dining,Coffee Shop,1377.45,Expense,UPI
+TXN1014,2024-04-06,Rent & Housing,Apartment Monthly Rent & Society Maintenance,18500.0,Expense,Net Banking
+TXN1316,2024-08-31,Shopping,Electronics & Gadgets,2885.55,Expense,Credit Card
+TXN1601,2024-06-23,Groceries,Supermarket Grocery,3493.87,Expense,Debit Card
+TXN1388,2024-06-02,Food & Dining,Zomato Dinner,845.37,Expense,Credit Card
+TXN1274,2024-08-30,Food & Dining,Zomato Dinner,486.22,Expense,UPI
+TXN1167,2024-07-31,Groceries,Milk & Dairy,3509.12,Expense,Debit Card
+TXN1744,2024-04-16,Groceries,Milk & Dairy,3954.43,Expense,UPI
+TXN1647,2024-02-20,Food & Dining,Weekend Restaurant,743.6,Expense,Credit Card
+TXN1485,2024-04-29,Food & Dining,Zomato Dinner,294.22,Expense,Cash
+TXN1733,2024-07-10,Food & Dining,Weekend Restaurant,679.5,Expense,UPI
+TXN1505,2024-10-15,Health & Fitness,Health Supplements,1717.95,Expense,UPI
+TXN1244,2024-07-17,Groceries,Milk & Dairy,2963.76,Expense,UPI
+TXN1567,2024-08-19,Food & Dining,Zomato Dinner,857.64,Expense,UPI
+TXN1563,2024-08-28,Food & Dining,Weekend Restaurant,862.8,Expense,Cash
+TXN1687,2024-03-15,Groceries,D-Mart Hypermarket,689.34,Expense,Debit Card
+TXN1190,2024-10-03,Shopping,Electronics & Gadgets,4262.88,Expense,Net Banking
+TXN1700,2024-12-10,Entertainment,Weekend Outing,543.29,Expense,Credit Card
+TXN1476,2024-01-05,Groceries,Milk & Dairy,2520.66,Expense,Debit Card
+TXN1682,2024-10-01,Groceries,Milk & Dairy,2705.74,Expense,Credit Card
+TXN1511,2024-11-10,Shopping,Clothing & Apparel,5192.17,Expense,Credit Card
+TXN1059,2024-11-23,Groceries,Fresh Vegetables,938.43,Expense,UPI
+TXN1475,2024-02-05,Shopping,Electronics & Gadgets,5937.34,Expense,Net Banking
+TXN1561,2024-04-03,Health & Fitness,Doctor Consultation,2032.42,Expense,UPI
+TXN1253,2024-12-20,Entertainment,Gaming & Events,2607.79,Expense,Credit Card
+TXN1022,2024-06-05,Rent & Housing,Apartment Monthly Rent & Society Maintenance,18500.0,Expense,Net Banking
+TXN1314,2024-09-20,Food & Dining,Weekend Restaurant,527.72,Expense,Credit Card
+TXN1460,2024-10-18, groceries ,Fresh Vegetables,3286.49,Expense,UPI
+TXN1161,2024-09-22,Groceries,D-Mart Hypermarket,2757.82,Expense,UPI
+TXN1277,2024-02-12,Entertainment,Movie Tickets Cinema,1677.94,Expense,Credit Card
+TXN1192,2024-02-08,Food & Dining,Zomato Dinner,1220.98,Expense,Cash
+TXN1386,2024-01-24,Health & Fitness,Doctor Consultation,2718.07,Expense,Cash
+TXN1414,2024-10-28,Transportation,Metro Card Recharge,763.73,Expense,UPI
+TXN1492,2024-11-26, food & dining ,Weekend Restaurant,451.29,Expense,UPI
+TXN1344,2024-12-06,Shopping,Clothing & Apparel,5294.36,Expense,UPI
+TXN1309,2024-07-06,Entertainment,Weekend Outing,444.78,Expense,Credit Card
+TXN1662,2024-05-14,Transportation,Ola Ride,414.65,Expense,Debit Card
+TXN1131,2024-11-29,Food & Dining,Weekend Restaurant,1111.54,Expense,Credit Card
+TXN1664,2024-06-25,Groceries,D-Mart Hypermarket,3765.61,Expense,UPI
+TXN1100,2024-06-02,Groceries,D-Mart Hypermarket,1605.8,Expense,Credit Card
+TXN1373,2024-04-27,Groceries,Fresh Vegetables,2272.31,Expense,Credit Card
+TXN1088,2024-12-19,Health & Fitness,Pharmacy Medicine,2536.87,Expense,Cash
+TXN1459,2024-02-06,Transportation,Uber Cab Ride,2073.24,Expense,Cash
+TXN1331,2024-08-31,Groceries,Fresh Vegetables,3260.26,Expense,Debit Card
+TXN1215,2024-02-16,Shopping,Amazon Shopping,3579.95,Expense,UPI
+TXN1467,2024-06-26,Transportation,Fuel Petrol,400.6,Expense,UPI
+TXN1122,2024-01-10,Entertainment,Movie Tickets Cinema,3499.71,Expense,UPI
+TXN1615,2024-09-30,Food & Dining,Office Cafeteria,1154.63,Expense,Cash
+TXN1021,2024-06-02,Salary,Monthly Corporate Salary Credit,56554.79,Income,Net Banking
+TXN1701,2024-10-20,Food & Dining,Zomato Dinner,758.72,Expense,UPI
+TXN1072,2024-10-08,Food & Dining,Weekend Restaurant,1190.12,Expense,UPI
+TXN1107,2024-07-15, groceries ,Fresh Vegetables,918.15,Expense,Credit Card
+TXN1271,2024-06-22,Shopping,Clothing & Apparel,6329.65,Expense,UPI
+TXN1436,2024-01-31,Transportation,Ola Ride,633.41,Expense,Debit Card
+TXN1103,2024-06-13,Groceries,D-Mart Hypermarket,2951.16,Expense,Credit Card
+TXN1681,2024-06-10,Groceries,Supermarket Grocery,945.9,Expense,Credit Card
+TXN1282,2024-03-05, food & dining ,Coffee Shop,583.55,Expense,Cash

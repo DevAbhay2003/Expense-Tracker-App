@@ -1,0 +1,37 @@
+=======================================================
+        EXECUTIVE FINANCIAL HEALTH REPORT             
+=======================================================
+
+📌 1. MACRO SUMMARY & SAVINGS PERFORMANCE:
+  • Cumulative Cash Inflow:  ₹1,270,123.31
+  • Cumulative Cash Outflow: ₹1,368,200.02
+  • Net Savings Accumulated: ₹-98,076.71
+  • Overall Savings Rate:    -7.72%
+  • Status: 🔴 VULNERABLE - High burn rate; vulnerable to liquidity shocks.
+
+📌 2. CATEGORY CONCENTRATION:
+  • Largest Outflow Driver:  'Groceries' accounting for ₹353,156.91 (25.81% of total expenses).
+  • Secondary Cost Driver:   'Shopping' with ₹296,491.82 (21.67%).
+
+📌 3. BUDGET ADHERENCE (50/30/20 RULE):
+  • Needs Allocation:   54.44% (Benchmark: ≤ 50%) -> ⚠️ Over budget
+  • Wants Allocation:   44.07% (Benchmark: ≤ 30%) -> ⚠️ Discretionary lifestyle creep detected
+  • Savings Allocation: -7.72% (Benchmark: ≥ 20%) -> ⚠️ Below savings target
+
+📌 4. VOLATILITY & DEFICIT MONITORING:
+  • Peak Burn Month: 2024-06 (Total Outflow: ₹137,561.11)
+  • ⚠️ Deficit Alert: 7 month(s) operated at a net loss (Expenses > Income).
+     - 2024-02: Deficit of ₹49,207.46
+     - 2024-03: Deficit of ₹9,206.85
+     - 2024-04: Deficit of ₹27,924.06
+     - 2024-06: Deficit of ₹14,555.37
+     - 2024-07: Deficit of ₹26,008.68
+     - 2024-08: Deficit of ₹43,833.11
+     - 2024-10: Deficit of ₹15,797.30
+  • Peak Discretionary Activity Day: Saturday.
+
+📌 5. ACTIONABLE FINANCIAL RECOMMENDATIONS:
+  1. Cap 'Groceries' spending using predefined monthly threshold limits.
+  2. Trim dining and entertainment subscriptions to bring 'Wants' down to the 30% benchmark.
+  3. Automate recurring transfers to an investment/emergency fund on the 1st of every month to 'pay yourself first'.
+=======================================================
